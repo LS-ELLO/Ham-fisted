@@ -79,4 +79,4 @@ ex) echo 'alias cookie="bash /Users/ympark4/Desktop/Project/Test/Ham-fisted/mac/
 [맥 파일경로 확인법](https://yangfra.tistory.com/11)을 참고하여, 각자 mac폴더안의 make.sh 파일의 경로를 확인하여 zshrc에 넣어주시면 됩니다. <br><br>
 
 <br>
-위와 같이 설정하면 `cookie [프로젝트 생성할 경로] [프로젝트 이름]` 명령어로 프로젝트를 생성할 수 있게 됩니다. <br>
+위와 같이 설정하면 cookie 명령어로 프로젝트를 생성할 수 있게 됩니다. <br>
