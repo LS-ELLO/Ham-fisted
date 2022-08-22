@@ -74,7 +74,7 @@ ex) $> cookie . my_project
 ## Mac버전 쿠키커터: Alias 설정하기
 ```sh
 echo 'alias cookie="bash [각자 컴퓨터의 상대경로/make.sh]"' >> ~/.zshrc
-ex) echo 'alias cookie="bash /Users/gbhwang/Desktop/Project/Test/Ham-fisted/mac/make.sh"' >> ~/.zshrc
+ex) echo 'alias cookie="bash /Users/ympark4/Desktop/Project/Test/Ham-fisted/mac/make.sh"' >> ~/.zshrc
 ```
 [맥 파일경로 확인법](https://yangfra.tistory.com/11)을 참고하여, 각자 mac폴더안의 make.sh 파일의 경로를 확인하여 zshrc에 넣어주시면 됩니다. <br><br>
 
