@@ -1,9 +1,0 @@
-
-# Mac OS-specific storage files
-.DS_Store
-
-# Visual Studio Code configurations
-.vscode/
-
-# Data
-data/
